@@ -1,0 +1,9 @@
+Java is an object-oriented programming language that is widely used for building applications. It was developed by Sun Microsystems and released in 1995. Java is known for its portability across platforms, as it can run on any device that has the Java Virtual Machine (JVM).
+
+One of the key features of Java is its simplicity. Java syntax is similar to C++, making it easier for programmers who are familiar with C-style languages. Additionally, Java provides automatic memory management through garbage collection, which helps prevent memory leaks.
+
+Object-oriented programming (OOP) is a programming paradigm that uses objects to design software. It allows for better organization of code and promotes reusability through inheritance and polymorphism. In OOP, objects represent real-world entities, and they can encapsulate both data and behavior.
+
+Python, on the other hand, is a high-level programming language that supports multiple programming paradigms, including procedural, functional, and OOP. While Python is flexible and easy to learn, it does not enforce OOP principles as strictly as Java.
+
+Lion is a animal
